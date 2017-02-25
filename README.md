@@ -10,4 +10,4 @@ PURPOSE:
 
 DATA STRUCTURE: [ Multi-dimensional String Array. Time complexity is O(nm) where n is number of students and m is number of courses required to register. ]
 
-INPUT FORMAT: [ <input_File_Name> <output_File_Name> <number_Of_Threads> <debug_Value> ]
+INPUT FORMAT: [ "input_File_Name"  "output_File_Name" "number_Of_Threads" "debug_Value" ]
